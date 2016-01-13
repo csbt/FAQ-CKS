@@ -153,7 +153,6 @@ CKS)
 
 Phòng quản lý hồ sơ – Ban Kinh Doanh, Công ty Cổ phần Bkav. Tầng 2 Tòa nhà Bkav, Khu đô thị Yên Hòa, Cầu Giấy, Hà Nội.
 (Lưu ý: Nếu cần gấp KH có thể Fax HS trước theo số 04 37822139 hoặc Scan gửi tới mail BkavCA@bkav.com trước về cho
-
 Bkav).
 
 **Gói cước miễn phí**
@@ -185,9 +184,9 @@ NVCP sẽ thu hồ sơ tại địa chỉ giao nhận của KH.
 ###5.      KH muốn thanh toán phí sử dụng CKS thì thanh toán như thế nào?
 -    Có 2 hình thức để KH thanh toán: Tiền mặt hoặc chuyển khoản (khuyến khích thanh toán bằng tiền mặt để có hóa đơn sớm)
 
-      +     Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
+Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
 
-      +     Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin               chuyển khoản như sau:
+Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin               chuyển khoản như sau:
                   Đơn vị nhận tiền: Công ty Cổ phần Bkav
 
                   Số  Tài  khoản:  14023703220013  ­  Ngân  hàng  Thương  mại  Cổ  phần  Kỹ  thương  Việt  Nam  (viết  tắt  là
