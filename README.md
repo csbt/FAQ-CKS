@@ -146,25 +146,144 @@ CKS)
 (Hướng dẫn KH vào trang: Bkavca.vn để doawload bộ hồ sơ hoặc gửi mail cho KH).
 
 <a name="2"></a>
+2.      KH gọi điện hỏi, nếu sau khi đã hoàn thiện HS thì KH sẽ nộp HS như thế nào?
 
-<a name=""></a>
+* Gói cước bình thường:
 
-<a name=""></a>
+­    KH nộp trực tiếp cho nhân viên thu hồ sơ của Bkav tại các buổi tập huấn khai thuế qua mạng (nếu có)
 
-<a name=""></a>
+­	Gọi điện t3ới 1900 54 54 14 hoặc email tới BkavCA@bkav.com để yêu cầu thu hồ sơ tận nơi (miễn phí vận chuyển trên toàn quốc đổi với KV thuộc BKE)
+­    Nhắn KH chuyển phát nhanh hồ sơ về cho Bkav CA (Đối với KV không thuộc BKE) theo địa chỉ:
 
-<a name=""></a>
+Phòng quản lý hồ sơ – Ban Kinh Doanh, Công ty Cổ phần Bkav. Tầng 2 Tòa nhà Bkav, Khu đô thị Yên Hòa, Cầu Giấy, Hà Nội.
+(Lưu ý: Nếu cần gấp KH có thể Fax HS trước theo số 04 37822139 hoặc Scan gửi tới mail BkavCA@bkav.com trước về cho
 
-<a name=""></a>
+Bkav).
 
-<a name=""></a>
+* Gói cước miễn phí
 
-<a name=""></a>
+­    Fax hoặc Scan bộ hồ sơ đăng ký CKS miễn phí bao gồm:
 
-<a name=""></a>
+01 bản đăng ký CKS
 
-<a name=""></a>
+01 giấy cam kết hoàn trả thiết bị
 
-<a name=""></a>
+01 CMTND của người đại diện và bản đăng ký kinh doanh của DN. 
 
-<a name=""></a>
+
+<a name="3"></a>
+3.      KH gọi điện hỏi Bkav sẽ đến địa chỉ nào của KH để thu HS?
+
+­    Đối với KH thuộc KV BKE: Đề nghị KH cung cấp địa chỉ giao nhận (không phải địa chỉ đăng ký kinh doanh) của Công ty.
+
+NVCP sẽ thu hồ sơ tại địa chỉ giao nhận của KH.
+
+­    Đối với KH không thuộc KV BKE: Báo KH gửi CPN HS về cho Bkav (cung cấp địa chỉ CPN cho KH).
+
+<a name="4"></a>
+4.      KH hỏi về quy định hoàn thiện hồ sơ:
+
+­	Theo điều 16 Chương II nghị định số 26/2007/NÐ­CP của chính phủ để đảm bảo tính pháp lý khi đăng ký CKS cần phải có hồ sơ đăng ký và có sự ký kết giữa 2 bên”     Thuyết phục KH hoàn thiện hồ sơ cho Bkav. Việc hoàn thiện hồ sơ đăng ký CKS của Bkav rất đơn giản, nhanh chóng ạ.
+
+<a name="5"></a>
+5.      KH muốn thanh toán phí sử dụng CKS thì thanh toán như thế nào?
+­    Có 2 hình thức để KH thanh toán: Tiền mặt hoặc chuyển khoản (khuyến khích thanh toán bằng tiền mặt để có hóa đơn sớm)
+
+­    Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
+
+­	Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin chuyển khoản như sau:
+Đơn vị nhận tiền: Công ty Cổ phần Bkav
+
+Số  Tài  khoản:  14023703220013  ­  Ngân  hàng  Thương  mại  Cổ  phần  Kỹ  thương  Việt  Nam  (viết  tắt  là
+
+Techcombank) ­ Chi nhánh Trần Thái Tông ­ Hà Nội
+
+Nội dung chuyển tiền: “Tên công ty” ­ “MST” ­ Chuyển tiền chữ ký số BkavCA
+
+Ví dụ: Công ty CP Nam Hà, MST: 0102345678 nội dung chuyển tiền ghi: Công ty CP Nam Hà – 0102345678 ­ Chuyển tiền chữ ký số BkavCA.
+
+<a name="6"></a>
+6.      Khi CPV đến thu Hồ sơ, có xuất hóa đơn VAT cho KH không?
+­    NV Bkav CA sẽ tới thu hồ sơ và thu tiền luôn, sau khi nhận được thông tin thanh toán và hồ sơ đầy đủ của KH, Bkav sẽ xuất 
+
+
+
+
+hóa đơn và chuyển đến cho KH.
+
+­    Ghi chú: Trường hợp KH gay gắt quá thì Bkav mới đồng ý xuất hóa đơn, nhưng chỉ là bản photo, sau đó fax/email hóa đơn để
+
+KH làm căn cứ thanh toán, Bkav không chuyển hóa đơn nếu KH chưa thanh toán tiền.
+
+<a name="7"></a>
+7.      Khi nào Bkav sẽ xuất hóa đơn VAT cho Tôi?
+­	Bkav sẽ xuất hóa đơn VAT cho Anh sau khi công ty anh hoàn thiện đầy đủ hồ sơ và Phòng Kế toán nhận được thông tin thanh toán. Bkav sẽ xuất hóa đơn và chuyển hoá đơn cho Anh trong khoảng thời gian sớm nhất.
+­    Trong quá trình nhận hóa đơn, nếu còn vấn đề gì khó khăn Anh vui lòng thông báo lại cho BkavCA để được hỗ trợ.
+
+<a name="8"></a>
+8.      KH muốn mua CKS nhưng lại đang bị mất giấy phép ĐKKD, thì có được mua CKS không?
+
+­	Để DN kịp thực hiện việc KKTQM, BkavCA vẫn thu hồ sơ đăng ký để cấp CKS cho DN, còn giấy ĐKKD thì DN gửi bổ sung cho BkavCA ngay khi được cấp lại giấy phép ĐKKD.
+
+<a name="9"></a>
+9.      Nếu bị mất USB Token thì Chữ ký số của DN có bị ảnh hưởng không?
+
+­	USB Token (Chứa Chữ ký số) còn được bảo vệ bởi mật khẩu (duy nhất Doanh nghiệp biết), nên người nhặt được USB Token chứa Chữ ký số cũng không thể sử dụng Chữ ký số đó. Tuy nhiên khi bị mất USB Token, KH báo ngay cho BkavCA để khóa tạm thời Chữ ký số và được hướng dẫn làm các thủ tục cấp lại CKS trong thời gian sớm nhất.
+
+<a name="10"></a>
+10.    Khi KH làm mất USB Token thì có được cấp lại không?
+
+­	Nếu bị mất USB Token, để tiếp tục sử dụng CKS của Bkav, KH cần hoàn thiện các thủ tục cấp lại CKS mà Bkav đã gửi qua mail và làm theo hướng dẫn. KH sẽ mất phí : 550,000 VNĐ phí thiết bị USB Token mới.
+
+<a name="11"></a>
+11.    Thủ tục cấp lại CKS như thế nào?
+
+Bộ hồ sơ cấp lại gồm:
+
+­    01 Đơn đề nghị cấp lại CKS
+
+­    01 bản CMTND của người đại diện pháp lý phô tô và đóng dấu đỏ của Công ty 
+
+­    01 bản đăng ký kinh doanh phô tô và đóng dấu đỏ của Công ty.
+
+­		Sau khi hoàn thiện HS cấp lại CKS, KH gửi lại Bkav theo đường chuyển phát nhanh về địa chỉ của Bkav. Sau khi nhận được đơn đề nghị, BkavCA sẽ tiến hành cấp lại CKS.
+­	Sau khi cấp lại thời hạn sử dụng của CKS được cấp lại tương đương thời hạn sử dụng CKS cũ của DN. (Lưu ý: Chỉ với trường hợp KH bị mất CKS, KH sẽ mất phí : 550,000 VNĐ phí thiết bị USB Token mới).
+
+<a name="12"></a>
+12.    Trong quá trình sử dụng CKS, Công ty thay đổi một số thông tin thì những thông tin nào trong CKS cần phải cấp lại?
+
+Những thông tin mà DN KH thay đổi cần phải cấp lại CKS gồm:
+
+­    Tên công ty
+
+­    Mã số thuế
+
+­    Địa chỉ trong đăng ký kinh doanh (Từ cấp quận trở lên)
+
+(Lưu ý: KH chỉ cần hoàn thiện HS cấp lại, không cần phải gửi thiết bị, không mất phí cấp lại. Bkav sẽ cấp từ xa cho KH).
+
+<a name="13"></a>
+13.    Nếu KH tham gia buổi tập huấn thì có mất phí không?
+
+­    Khi đi tập huấn, không những DN không mất phí mà việc tham gia còn là quyền lợi của DN. Mọi thắc mắc về KKTQM của DN
+
+sẽ được giải đáp và hướng dẫn cụ thể trong buổi tập huấn.
+
+<a name="14"></a>
+14.    Mỗi lần đi tập huấn thì bên thuế hay bên nhà cung cấp CKS sẽ hướng dẫn KH về KKTQM?
+
+­    Trong buổi tập huấn, Cơ quan thuế và nhà cung cấp CKS sẽ phối hợp hướng dẫn DN về KKTQM.
+
+<a name="15"></a>
+
+<a name="16"></a>
+
+<a name="17"></a>
+
+<a name="18"></a>
+
+<a name="19"></a>
+
+<a name="20"></a>
+
+<a name="21"></a>
