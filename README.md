@@ -182,18 +182,18 @@ NVCP sẽ thu hồ sơ tại địa chỉ giao nhận của KH.
 
 <a name="5"></a>
 ###5.      KH muốn thanh toán phí sử dụng CKS thì thanh toán như thế nào?
--    Có 2 hình thức để KH thanh toán: Tiền mặt hoặc chuyển khoản (khuyến khích thanh toán bằng tiền mặt để có hóa đơn sớm)
+Có 2 hình thức để KH thanh toán: Tiền mặt hoặc chuyển khoản (khuyến khích thanh toán bằng tiền mặt để có hóa đơn sớm)
 
-Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
+- Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
 
-Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin               chuyển khoản như sau:
-                  Đơn vị nhận tiền: Công ty Cổ phần Bkav
+- Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin               chuyển khoản như sau:
+  + Đơn vị nhận tiền: Công ty Cổ phần Bkav
 
-                  Số  Tài  khoản:  14023703220013  ­  Ngân  hàng  Thương  mại  Cổ  phần  Kỹ  thương  Việt  Nam  (viết  tắt  là
+  + Số  Tài  khoản:  14023703220013  ­  Ngân  hàng  Thương  mại  Cổ  phần  Kỹ  thương  Việt  Nam  (viết  tắt  là
 
-                  Techcombank) ­ Chi nhánh Trần Thái Tông ­ Hà Nội
+  + Techcombank) ­ Chi nhánh Trần Thái Tông ­ Hà Nội
 
-            Nội dung chuyển tiền: “Tên công ty” ­ “MST” ­ Chuyển tiền chữ ký số BkavCA
+  Nội dung chuyển tiền: “Tên công ty” ­ “MST” ­ Chuyển tiền chữ ký số BkavCA
 
 **Ví dụ**: Công ty CP Nam Hà, MST: 0102345678 nội dung chuyển tiền ghi: Công ty CP Nam Hà – 0102345678 ­ Chuyển tiền chữ ký số BkavCA.
 
