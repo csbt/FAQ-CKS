@@ -426,7 +426,6 @@ Bkav gọi lại tư vấn rõ hơn các thủ tục GH và CTKM cho KH
 ###37.    Tôi đang sử dụng CKS của Bkav, nhưng hiện tại DN Tôi ngừng hoạt động một thời gian thì cần phải làm thế nào?
 
 -    Nếu DN Anh tạm ngừng hoạt động sử dụng CKS một thời gian, Bkav sẽ bảo lưu hạn sử dụng CKS cho Anh nhưng với điều kiện
-
 DN mình đã thanh toán tiền CKS cho Bkav ạ.
 
 <a name="38"></a>
@@ -465,7 +464,7 @@ Trường hợp NNT đủ điều kiện và thuộc đối tượng khai thuế
 <a name="43"></a>
 ###43.    Hải quan điện tử là gì?
 
-Khai hải quan điện tử là việc doanh nghiệp thực hiện khai báo hải quan thông qua phần mềm kê khai hải quan điện tử, dữ liệu tờ khai hải quan sẽ được gửi lên cơ quan thuế thông qua môi trường internet. Việc tiếp nhận, xử lý thông tin khai hải quan, ra quyết định (cấp sốm trả kết quả phân luồng…) được thực hiện thông qua phần mềm Hải quan điện tử.
+- Khai hải quan điện tử là việc doanh nghiệp thực hiện khai báo hải quan thông qua phần mềm kê khai hải quan điện tử, dữ liệu tờ khai hải quan sẽ được gửi lên cơ quan thuế thông qua môi trường internet. Việc tiếp nhận, xử lý thông tin khai hải quan, ra quyết định (cấp sốm trả kết quả phân luồng…) được thực hiện thông qua phần mềm Hải quan điện tử.
 
 <a name="44"></a>
 ###44.    Trong trường hợp nào thì tôi phải thực hiện khai Hải quan?
@@ -483,8 +482,7 @@ Khai hải quan điện tử là việc doanh nghiệp thực hiện khai báo h
 -	Chư ky sô cua Bkav hoan toan co thê sư dung đê kê khai trên cac phân mêm khai Hai quan điên tư nhưng để thuận lợi cho việc kê khai thuận tiện và nhanh chóng hơn. DN nên đăng ký mua thêm CKS để kê khai HQ.
 
 <a name="47"></a>
-###57.    Công ty tôi co nhiêu chi nhanh ơ cac tinh, thanh phô khac nhau, tôi co thê dung nhiêu chư ky sô đê thưc hiên kê khai
-Hai Quan đươc không?
+###47.    Công ty tôi co nhiêu chi nhanh ơ cac tinh, thanh phô khac nhau, tôi co thê dung nhiêu chư ky sô đê thưc hiên kê khai Hai Quan đươc không?
 
 -	Anh/chi hoan toan co thê sư dung nhiêu chư ky sô đê kê khai Hai quan cho môt công ty. Nếu KH có nhu cầu đăng ký thêm chuyển BC theo đúng quy trình.
 
