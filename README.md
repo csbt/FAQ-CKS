@@ -131,7 +131,6 @@ Hai Quan đươc không?](#47)
 **Bộ hồ sơ gồm:** 
 
 -    01 bản “Đăng ký chữ ký số ­ dành cho tổ chức, doanh nghiệp” (Đối với trường hợp gia hạn thì sẽ là 01 bản: Đăng ký gia hạn
-
 CKS)
 
 -    02 bản “Hợp đồng cung cấp và sử dụng dịch vụ chứng thực chữ ký số công cộng BkavCA”
@@ -186,31 +185,24 @@ NVCP sẽ thu hồ sơ tại địa chỉ giao nhận của KH.
 ###5.      KH muốn thanh toán phí sử dụng CKS thì thanh toán như thế nào?
 -    Có 2 hình thức để KH thanh toán: Tiền mặt hoặc chuyển khoản (khuyến khích thanh toán bằng tiền mặt để có hóa đơn sớm)
 
--    Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
+      +     Tiền mặt: Thanh toán trực tiếp cho nhân viên thu hồ sơ (nhận lại Phiếu xác nhận thu hồ sơ và Phiếu thu tiền)
 
--	Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin chuyển khoản như sau:
-Đơn vị nhận tiền: Công ty Cổ phần Bkav
+      +     Chuyển khoản:  KH vui lòng chuyển khoản phí dịch vụ ứng với gói cước theo thông tin tài khoản trong hợp đồng. Thông tin               chuyển khoản như sau:
+                  Đơn vị nhận tiền: Công ty Cổ phần Bkav
 
-Số  Tài  khoản:  14023703220013  ­  Ngân  hàng  Thương  mại  Cổ  phần  Kỹ  thương  Việt  Nam  (viết  tắt  là
+                  Số  Tài  khoản:  14023703220013  ­  Ngân  hàng  Thương  mại  Cổ  phần  Kỹ  thương  Việt  Nam  (viết  tắt  là
 
-Techcombank) ­ Chi nhánh Trần Thái Tông ­ Hà Nội
+                  Techcombank) ­ Chi nhánh Trần Thái Tông ­ Hà Nội
 
-Nội dung chuyển tiền: “Tên công ty” ­ “MST” ­ Chuyển tiền chữ ký số BkavCA
+            Nội dung chuyển tiền: “Tên công ty” ­ “MST” ­ Chuyển tiền chữ ký số BkavCA
 
-Ví dụ: Công ty CP Nam Hà, MST: 0102345678 nội dung chuyển tiền ghi: Công ty CP Nam Hà – 0102345678 ­ Chuyển tiền chữ ký số BkavCA.
+**Ví dụ**: Công ty CP Nam Hà, MST: 0102345678 nội dung chuyển tiền ghi: Công ty CP Nam Hà – 0102345678 ­ Chuyển tiền chữ ký số BkavCA.
 
 <a name="6"></a>
 ###6.      Khi CPV đến thu Hồ sơ, có xuất hóa đơn VAT cho KH không?
--    NV Bkav CA sẽ tới thu hồ sơ và thu tiền luôn, sau khi nhận được thông tin thanh toán và hồ sơ đầy đủ của KH, Bkav sẽ xuất 
+-    NV Bkav CA sẽ tới thu hồ sơ và thu tiền luôn, sau khi nhận được thông tin thanh toán và hồ sơ đầy đủ của KH, Bkav sẽ xuất hóa đơn và chuyển đến cho KH.
 
-
-
-
-hóa đơn và chuyển đến cho KH.
-
--    Ghi chú: Trường hợp KH gay gắt quá thì Bkav mới đồng ý xuất hóa đơn, nhưng chỉ là bản photo, sau đó fax/email hóa đơn để
-
-KH làm căn cứ thanh toán, Bkav không chuyển hóa đơn nếu KH chưa thanh toán tiền.
+-    Ghi chú: Trường hợp KH gay gắt quá thì Bkav mới đồng ý xuất hóa đơn, nhưng chỉ là bản photo, sau đó fax/email hóa đơn để KH làm căn cứ thanh toán, Bkav không chuyển hóa đơn nếu KH chưa thanh toán tiền.
 
 <a name="7"></a>
 ###7.      Khi nào Bkav sẽ xuất hóa đơn VAT cho Tôi?
@@ -243,8 +235,8 @@ Bộ hồ sơ cấp lại gồm:
 
 -    01 bản đăng ký kinh doanh phô tô và đóng dấu đỏ của Công ty.
 
--		Sau khi hoàn thiện HS cấp lại CKS, KH gửi lại Bkav theo đường chuyển phát nhanh về địa chỉ của Bkav. Sau khi nhận được đơn đề nghị, BkavCA sẽ tiến hành cấp lại CKS.
--	  Sau khi cấp lại thời hạn sử dụng của CKS được cấp lại tương đương thời hạn sử dụng CKS cũ của DN. (Lưu ý: Chỉ với trường hợp KH bị mất CKS, KH sẽ mất phí : 550,000 VNĐ phí thiết bị USB Token mới).
+-	Sau khi hoàn thiện HS cấp lại CKS, KH gửi lại Bkav theo đường chuyển phát nhanh về địa chỉ của Bkav. Sau khi nhận được đơn đề nghị, BkavCA sẽ tiến hành cấp lại CKS.
+-	Sau khi cấp lại thời hạn sử dụng của CKS được cấp lại tương đương thời hạn sử dụng CKS cũ của DN. (Lưu ý: Chỉ với trường hợp KH bị mất CKS, KH sẽ mất phí : 550,000 VNĐ phí thiết bị USB Token mới).
 
 <a name="12"></a>
 ###12.    Trong quá trình sử dụng CKS, Công ty thay đổi một số thông tin thì những thông tin nào trong CKS cần phải cấp lại?
@@ -263,7 +255,6 @@ Những thông tin mà DN KH thay đổi cần phải cấp lại CKS gồm:
 ###13.    Nếu KH tham gia buổi tập huấn thì có mất phí không?
 
 -    Khi đi tập huấn, không những DN không mất phí mà việc tham gia còn là quyền lợi của DN. Mọi thắc mắc về KKTQM của DN
-
 sẽ được giải đáp và hướng dẫn cụ thể trong buổi tập huấn.
 
 <a name="14"></a>
@@ -280,7 +271,6 @@ sẽ được giải đáp và hướng dẫn cụ thể trong buổi tập hu�
 ###16.    Tối đa là bao nhiêu người đi tập huấn/1 Công ty?
 
 -    Không hạn chế số lượng, việc cử người đi tập huấn là do Doanh nghiệp quyết định. Để hiệu quả nên là nhân viên kế toán thuế +
-
 lãnh đạo doanh nghiệp.
 
 <a name="17"></a>
@@ -311,8 +301,7 @@ mọi thắc mắc về hình thức KKTQM trong buổi tập huấn. DN nên th
 -    Nếu KH không đồng ý thì xin ý kiến Mng.
 
 <a name="21"></a>
-###21.    GĐ bên Anh đi công tác (dài ngày) chưa biết khi nào về, bên Anh muốn làm CKS để kịp kê khai kỳ tới luôn, Bkav thu
-HS rồi ký trước, bên Anh ký sau được không?
+###21.    GĐ bên Anh đi công tác (dài ngày) chưa biết khi nào về, bên Anh muốn làm CKS để kịp kê khai kỳ tới luôn, Bkav thu HS rồi ký trước, bên Anh ký sau được không?
 
 -	Để đảm bảo quyền lợi của DN, trong trường hợp này bên Anh cần có giấy uỷ quyền của Phó GĐ ký thay. Nếu cấp CKS mà không có sự ràng buộc giữa 2 bên thì không có căn 
 cứ pháp lý để ký kết hợp đồng cũng như duy trì dịch vụ hỗ trợ trong quá trình sử dụng. Nếu có vấn đề phát sinh thì rất khó để giải quyết cho DN ạ.
@@ -374,14 +363,14 @@ Bkav gọi lại tư vấn rõ hơn các thủ tục GH và CTKM cho KH
 <a name="30"></a>
 ###30.    Dịch vụ nộp tờ khai thuế qua mạng Bkav TVAN khác với dịch vụ iHTKK như thế nào?
 
--    Đường truyền nhanh hơn , chị sử dụng đg truyền Tvan của Bkav sẽ tránh đc tình trạng quá tải vào thời điểm kê khai
+-     Đường truyền nhanh hơn , chị sử dụng đg truyền Tvan của Bkav sẽ tránh đc tình trạng quá tải vào thời điểm kê khai
 
--	   Khi chị gửi tờ khai lên trang Tvan thì Bkav sẽ gửi Có báo tin nhắn và gửi mail thông báo bên mình đã gửi thành công để Kh yên tâm hơn
--    Có HTKT 24/7
+-     Khi chị gửi tờ khai lên trang Tvan thì Bkav sẽ gửi Có báo tin nhắn và gửi mail thông báo bên mình đã gửi thành công để Kh yên         tâm hơn
+-     Có HTKT 24/7
 
--    Sẽ phối hợp với thuế hỗ trợ KH khi gặp vấn đề
+-     Sẽ phối hợp với thuế hỗ trợ KH khi gặp vấn đề
 
--    Còn nhiều lợi ích khác: sắp tới triển khai kê khai bảo hiểm… 
+-     Còn nhiều lợi ích khác: sắp tới triển khai kê khai bảo hiểm… 
 
 <a name="31"></a>
 ###31.     KH đã có CKS nhưng không muốn nộp qua trang Tổng cục thuế mà muốn nộp qua trang Nộp tờ khai của Bkav thì có mất  phí không? (KH đăng ký dùng TVAN)
@@ -402,18 +391,18 @@ Bkav gọi lại tư vấn rõ hơn các thủ tục GH và CTKM cho KH
 <a name="34"></a>
 ###34.   Trong các trường hợp nào thì Bkav sẽ hoàn tiền cho KH? 
 
--		Bkav sẽ hoàn tiền cho KH trong các trường hợp như: KH chuyển nhầm tiền, Bkav thu thừa tiền của KH, KH huỷ dịch vụ với lý do khách quan, bất khả kháng.
+-     Bkav sẽ hoàn tiền cho KH trong các trường hợp như: KH chuyển nhầm tiền, Bkav thu thừa tiền của KH, KH huỷ dịch vụ với lý do           khách quan, bất khả kháng.
 -     NV sẽ tiếp nhận vấn đề và chuyển công văn cho Ban HTKD3 để xử lý
 
 -     Khi chuyển công văn cho HTKD3 xử lý, cần cung cấp đầy đủ các thông tin sau:
 
-      1. Lý do hoàn tiền
+      + Lý do hoàn tiền
 
-      2. Số tiền cần hoàn lại
+      + Số tiền cần hoàn lại
 
-      3. Xin thông tin thanh toán ban đầu của KH
+      + Xin thông tin thanh toán ban đầu của KH
 
-      4. Hoàn tiền bằng hình thức mà KH đã thanh toán ban đầu
+      + Hoàn tiền bằng hình thức mà KH đã thanh toán ban đầu
 
 -    Nếu tiền mặt thì ai là người nhận? Điện thoại? Số CMND, Địa chỉ nhận tiền?
 
