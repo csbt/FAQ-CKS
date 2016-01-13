@@ -103,7 +103,7 @@ Hai Quan đươc không?](#47)
 
 [50.    KH  yêu cầu Bkav gửi giấy tờ chứng minh Bkav được phép cung cấp DV CKS hải quan cho DN](#50)
 
-[51.    Tại sao khai Hải quan điện tử cần có Chữ ký số](#51
+[51.    Tại sao khai Hải quan điện tử cần có Chữ ký số](#51)
 
 [52.    Tôi là người nước ngoài, tôi có thể thực hiện khai Hải quan điện tử được không](#52)
 
@@ -144,3 +144,4 @@ CKS)
 ­    01 bản đăng ký kinh doanh phô tô và đóng dấu đỏ của Công ty
 
 (Hướng dẫn KH vào trang: Bkavca.vn để doawload bộ hồ sơ hoặc gửi mail cho KH).
+<a name="2"></a>
