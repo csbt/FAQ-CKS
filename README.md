@@ -396,62 +396,231 @@ Bkav gọi lại tư vấn rõ hơn các thủ tục GH và CTKM cho KH
 
 <a name="31"></a>
 33.     KH đã có CKS nhưng không muốn nộp qua trang Tổng cục thuế mà muốn nộp qua trang Nộp tờ khai của Bkav thì có mất  phí không? (KH đăng ký dùng TVAN)
+
 ­    KH đăng ký dùng Tvan của Bkav sẽ được miễn phí.
 
 <a name="32"></a>
+34.   Tại sao tôi đồng ý gia hạn 3 năm thời hạn sử dụng của tôi lại bị thiếu?
+
+­	Bkav đảm bảo cung cấp dịch vụ đúng thời hạn mà Anh  đã đăng ký. Thời hạn sử dụng dịch vụ sẽ được cấp thành nhiều giai đoạn để tăng tính bảo mật cho Chữ ký số của Anh. Việc thêm thời hạn sẽ được tự động thực hiện trên hệ thống mà không mất thêm bất kỳ chi phí nào. Đồng thời Bkav sẽ gửi cho Anh một giấy chứng nhận CKS. Trên giấy chứng nhận sẽ ghi chính xác thời hạn sử. Anh cứ yên tâm sử dụng dịch vụ ạ.
 
 <a name="33"></a>
+35.    Doanh nghiệp tôi đã thanh toán tiền phí rồi mà bây giờ có nhân viên qua giao thiết bị vẫn báo tôi phải thanh toán phí, bây giờ tôi phải làm gì?
+­    Xin thông tin KH thanh toán trước đó, kiểm tra lại với kế toán xem đã nhận được thông tin thanh toán KH chưa.
+­	Chuyển Công nợ CA phát sinh (NV sẽ xác minh lại thông tin thanh toán của KH. Sau đó công nợ sẽ chuyển thông tin sang Khiếu nại chuyển phát CA để hủy COD với Bưu điện).
 
 <a name="34"></a>
+36.   Trong các trường hợp nào thì Bkav sẽ hoàn tiền cho KH? 
+
+
+
+
+­		Bkav sẽ hoàn tiền cho KH trong các trường hợp như: KH chuyển nhầm tiền, Bkav thu thừa tiền của KH, KH huỷ dịch vụ với lý do khách quan, bất khả kháng.
+­     NV sẽ tiếp nhận vấn đề và chuyển công văn cho Ban HTKD3 để xử lý
+
+­     Khi chuyển công văn cho HTKD3 xử lý, cần cung cấp đầy đủ các thông tin sau:
+
+1. Lý do hoàn tiền
+
+2. Số tiền cần hoàn lại
+
+3. Xin thông tin thanh toán ban đầu của KH
+
+4. Hoàn tiền bằng hình thức mà KH đã thanh toán ban đầu
+
+­    Nếu tiền mặt thì ai là người nhận? Điện thoại? Số CMND, Địa chỉ nhận tiền?
+
+­    Nếu chuyển khoản: Thông tin tài khoản là số tài khoản đã chuyển tiền cho Bkav.
 
 <a name="35"></a>
+37.    Có nhân viên tự xưng Bkav,  liên hệ báo Tôi gia hạn, gửi mail yêu cầu nâng cấp phần mềm mới, thanh toán phí. Tôi phải làm thế nào? (Trường hợp kiểm tra NKXL không có ai liên hệ mà có tính chất giả mạo Bkav).
+­    Để đảm bảo quyền lợi của DN mình, Anh vui lòng cung cấp cho Bkav một số thông tin để Bkav xác minh và tìm hiểu rõ vấn đề.
+
+­	NV xin thông tin: SĐT, Tên, Email, thời gian, ngày của đối tượng đã liên với KH, ghi rõ nội dung KH đã phản ánh. Báo cáo phụ trách và chuyển KHPA để điều tra.
 
 <a name="36"></a>
+38.    Tôi đang làm hồ sơ đăng ký CKS (hoặc gia hạn) của Bkav, nhưng người đại diện pháp lý của DN tôi không đồng ý cung cấp giấy CMND để hoàn thiện HS, vậy DN tôi có đăng ký sử dụng dịch vụ của Bkav được không?
+­	Nếu người đại diện pháp lý của DN Anh không đồng ý cung cấp giấy CMND để hoàn thiện HS, Bkav vẫn cấp CKS (hoặc gia hạn) cho DN mình sử dụng ạ. Các giấy tờ còn lại bao gồm: Hợp đồng, Bản đăng ký CKS (hoặc gia hạn), Giấy đăng ký kinh doanh, Anh cần hoàn thiện đầy đủ và đóng dấu đỏ của DN ạ. 
+
+
+
+
+­	Theo quy định của bộ Thông tin truyền thông thì khi đăng ký CKS cần phải có hồ sơ đăng ký để đảm bảo tính pháp lý và có sự ký kết giữa 2 bên ạ. < Xin ý kiến phụ trách>.
 
 <a name="37"></a>
+39.    Tôi đang sử dụng CKS của Bkav, nhưng hiện tại DN Tôi ngừng hoạt động một thời gian thì cần phải làm thế nào?
+
+­    Nếu DN Anh tạm ngừng hoạt động sử dụng CKS một thời gian, Bkav sẽ bảo lưu hạn sử dụng CKS cho Anh nhưng với điều kiện
+
+DN mình đã thanh toán tiền CKS cho Bkav ạ.
 
 <a name="38"></a>
+41.     Anh muốn Bkav cho người đến công ty anh để tư vấn trực tiếp và ký hợp đồng luôn có được không?
+
+­	Thủ tục đăng ký CKS của Bkav rất đơn giản, nhanh chóng và dễ hiểu. Trường hợp của Anh có nhu cầu đăng ký mua CKS, anh vui lòng cung cấp cho Bkav các thông tin của DN (MST, SĐT, Tên) sẽ có NV Bkav chủ động liên hệ để tư vấn rõ hơn các thủ tục đăng ký CKS ạ.
 
 <a name="39"></a>
+42.    KH muốn đăng ký CKS theo chương trình của Bkav phối hợp với ACB /IVB/ VPBank/ BIDV/VSD/SGB
+
+­	Ngân hàng <tên của 1 trong các NH bên trên> hiện là đối tác của Bkav, đã được Bkav ủy quyền làm thủ tục cấp CKS và hỗ trợ KH trong quá trình sử dụng. Do vậy, KH vui lòng đến Chi nhánh hoặc Phòng giao dịch mà mình đã mở tài khoản để được hướng dẫn. Nhân viên xin thông tin Tên, SĐT của KH chuyển sang TL Team ( Đại lý dự án CA).
+*(Lý do: Mỗi tháng phía ngân hàng và Bkav có tiến hành đối soát 1 lần các hồ sơ và hợp đồng của KH, đồng thời trong quá trình KH sử dụng ngân hàng sẽ hướng dẫn KH cách cập nhật thông tin, ký điện tử để chuyển tiền trực tuyến tùy theo nghiệp vụ của từng ngân hàng. Do vậy KH vui lòng liên hệ với Ngân hàng để được hỗ trợ một cách tốt nhất).*
 
 <a name="40"></a>
+43.    TH nào thì DN tôi phải kê khai theo quý. 
+
+
+
+
+­    Khai thuế theo quý áp dụng đối với NNT GTGT có tổng doanh thu bán hàng hoá và cung cấp dịch vụ của năm trước liền kề từ
+
+50 tỷ đồng trở xuống.
+
+Ghi chú: Trường hợp NN
+
+T mới bắt đầu hoạt động SXKD, việc khai thuế GTGT được thực hiện theo quý.  Sau khi SXKD đủ 12 tháng thì từ năm dương lịch tiếp theo sẽ căn cứ theo mức doanh thu bán hàng hoá, dịch vụ của năm dương lịch trước liền kề (đủ 12 tháng) để thực hiện khai thuế GTGT theo tháng hay theo quý. NNT có trách nhiệm tự xác định thuộc đối tượng khai thuế theo tháng hay khai thuế theo quý để thực hiện khai thuế theo quy định.
+Trường hợp NNT đủ điều kiện và thuộc đối tượng khai thuế GTGT theo quý muốn chuyển sang khai thuế theo tháng thì gửi thông báo (theo Mẫu số 07/GTGT) cho cơ quan Thuế quản lý trực tiếp chậm nhất là cùng với thời hạn nộp tờ khai thuế GTGT của tháng đầu tiên của năm bắt đầu khai thuế GTGT theo tháng.
 
 <a name="41"></a>
+44.    CKS của Bkav có mang ra nước ngoài sử dụng được hay không?
+
+­    CKS của Bkav chỉ có giá trị pháp lý tại Việt Nam.
+
+­    CKS của Bkav mang ra nước ngoài mà kê khai với chi cục thuế ở nước ngoài thì không được.
+
 
 <a name="42"></a>
+45.    KH phản ánh trong kỳ kê khai gọi lên tổng đài của Bkav nhưng không thấy ai nghe máy.
+
+­	Dạ, trong mấy ngày cuối kỳ kê khai, hệ thống của tổng cục thuế bị quá tải, nhiều KH không gửi được tờ khai nên gọi lên Bkav cùng một lúc, do vậy có 1 số KH chưa được đáp ứng. Mong anh chị thông cảm ạ. Vang e cám ơn ý kiến đóng góp của a chị , bên e sẽ hoàn thiện hệ thống để có thể  hỗ trợ tốt nhất cho KH
 
 <a name="43"></a>
+46.    Hải quan điện tử là gì?
+
+Khai hải quan điện tử là việc doanh nghiệp thực hiện khai báo hải quan thông qua phần mềm kê khai hải quan điện tử, dữ liệu tờ khai hải quan sẽ được gửi lên cơ quan thuế thông qua môi trường internet. Việc tiếp nhận, xử lý thông tin khai hải quan, ra quyết định (cấp sốm trả kết quả phân luồng…) được thực hiện thông qua phần mềm Hải quan điện tử.
 
 <a name="44"></a>
+47.    Trong trường hợp nào thì tôi phải thực hiện khai Hải quan?
+
+­    Khi doanh nghiệp thực hiện các giao dịch nhập khẩu hàng hóa hay xuất khẩu hàng hóa thì đều phải khai báo Hải quan.
 
 <a name="45"></a>
+48.    Bkav eHaiQuan có gì khác so với các phần mềm Hải quan điện tử khác?
+
+­	Bkav eHaiQuan là phần mềm kê khai hải quan điện tử tích hợp chữ ký số của Bkav. Bkav eHaiQuan được xây dựng theo tiêu chuẩn của hệ thống Hải quan điện tử, đồng thời tương thích với VNACCS/VCIS của Tổng cục hải quan. Bkav eHaiQuan được cung cấp miễn phí sử dụng.
 
 <a name="46"></a>
+49.    Chư ky sô cua Bkav co kê khai Hai quan điên tư đươc không?
+
+­	Chư ky sô cua Bkav hoan toan co thê sư dung đê kê khai trên cac phân mêm khai Hai quan điên tư nhưng để thuận lợi cho việc kê khai thuận tiện và nhanh chóng hơn. DN nên đăng ký mua thêm CKS để kê khai HQ.
 
 <a name="47"></a>
+50.    Công ty tôi co nhiêu chi nhanh ơ cac tinh, thanh phô khac nhau, tôi co thê dung nhiêu chư ky sô đê thưc hiên kê khai
+
+Hai Quan đươc không?
+
+­	Anh/chi hoan toan co thê sư dung nhiêu chư ky sô đê kê khai Hai quan cho môt công ty. Nếu KH có nhu cầu đăng ký thêm chuyển BC theo đúng quy trình.
 
 <a name="48"></a>
+51.    Khi doanh nghiệp đăng ký nhiều CKS cùng một lúc để kê khai hải quan có ảnh hưởng gì đến tính bảo mật của doanh nghiệp không?
+
+­		Dạ, việc này vẫn đảm bảo tính bảo mật của DN và Cơ quan Hải quan cho phép DN đăng ký nhiều CKS để kê khai Hải quan đấy ạ. 
 
 <a name="49"></a>
+52.    Hiên tai phân mêm Bkav eHaiQuan đa sư dung đươc chưa?
+
+­	Vê cơ ban phân mêm Bkav eHaiQuan cua Bkav đa hoan thiên, tuy nhiên Bkav đang bô sung thêm môt sô tinh năng nâng cao, co ưu điêm hơn so vơi cac phân mêm khac, nhăm giup KH thuân lơi hơn trong qua trinh khai Hai quan.
+­	Hiên tai anh/chi đang sư dung phân mêm khai Hai quan nao thi tiêp tuc sư dung phân mêm đo, anh/chi vui long cho em xin thông tin ca nhân, khi nao Bkav eHaiQuan bô sung thêm chức năng mơi xong, Bkav se hương dân anh/chi sư dung phân mêm mơi.
+­    Nêu anh/chi chưa sư dung phân mêm khai Hai quan nao, anh/chi co thê kê khai Hai quan băng phân mêm VNACCS/VCIS cua
+
+Tông cuc Hai quan thông qua trang website customs.gov.vn
 
 <a name="50"></a>
+53.     KH  yêu cầu Bkav gửi giấy tờ chứng minh Bkav được phép cung cấp DV CKS hải quan cho DN?
+
+­	Tổng cục Hải quan chấp nhận tất cả chữ ký số cung cấp bởi các nhà cung cấp dịch vụ chữ ký số đã được Bộ Thông tinvà Truyền thông cấp phép và đã xác nhận hợp chuẩn với cơ quan hải quan, trong đó có Bkav. Anh/chi có thể tham khảo thêmtrên trang web của Tổng Cục hải quan
 
 <a name="51"></a>
+54.    Tại sao khai Hải quan điện tử cần có Chữ ký số? 
+
+
+
+
+­	Theo quy định của Bộ Tài chính về sử dụng Chữ ký số công cộng trong thủ tục hải quan điện tử (Quyết định 2341/QĐ­BTC ngày 18/09/2013), kể từ ngày 01/11/2013 Doanh nghiệp phải sử dụng Chữ ký số công cộng khi thực hiện kê khai hải quan điện tử.
+­	Chữ ký số của doanh nghiệp là thông tin xác định doanh nghiệp đi kèm theo tờ khai điện tử, về mặt pháp lý, chữ ký số có tính pháp lý như chữ ký tay và con dấu của doanh nghiệp trên tờ khai giấy. Việc khai Hải quan điện tử có sử dụng Chữ ký số giúp giảm tải các thủ tục hải quan, giúp quá trình thông quan được nhanh chóng và thuận tiện hơn cho Doanh nghiệp.
 
 <a name="52"></a>
+55.    Tôi là người nước ngoài, tôi có thể thực hiện khai Hải quan điện tử được không?
+
+­    Trường hợp cá nhân là người nước ngoài nhập khẩu hàng hóa có thể có 2 trường hợp sau:
+
+­    Tự cá nhân đó đứng ra làm thủ tục nhập khẩu:
+
+­    Đối với trường hợp cá nhân là người nước ngoài đứng ra làm thủ tục thì chỉ được mở tờ khai theo loại hình phi mậu dịch.
+
+Trường hợp này thì không áp dụng thủ tục hải quan điện tử mà áp dụng khai báo thủ tục hải quan truyền thống.
+
+­    Cá nhân người nước ngoài ủy thác cho công ty dịch vụ làm thủ tục nhập khẩu:
+
+­    Đối với trường hợp này thì số chứng minh thư (hoặc mã số doanh nghiệp) là của công ty dịch vụ làm thủ tục nhập khẩu.
+
 
 <a name="53"></a>
+56.    Bkav eHoaDon là gì?
+
+­	Bkav eHoadon ­ Phần mềm tự in hóa đơn eHoadon được cung cấp bởi Công ty Bkav. Bkav eHoadon giúp bạn tự tạo mẫu hóa đơn, lập và in hóa đơn trực tiếp trên máy tính, tự động báo cáo tình hình sử dụng hóa đơn. Bkav eHoadon tuân thủ theo Nghị định 51/2010/ND­CP và Thông tư 153/2010/TT­BTC về hóa đơn bán hàng và dịch vụ của Bộ Tài Chính.
 
 <a name="54"></a>
+57.    Để đăng ký sử dụng dịch vụ eHoaDon, KH cần làm gì? 
+
+
+
+
+­    Để sử dụng dịch vụ eHoadon, trước tiên KH cần download và cài đặt phần mềm eHoadon tại website eHoadon.vn
+
+Sau khi cài đặt thành công KH thực hiện việc đăng ký tài khoản để sử dụng phần mềm eHoadon.
 
 <a name="55"></a>
+58.    Chi phí để sử dụng dịch vụ như thế nào, có ưu đãi gì dành cho doanh nghiệp khi đăng ký sử dụng dịch vụ eHoaDon?
+
+­	KH sẽ được sử dụng miễn phí phần mềm eHoadon trong 12 tháng, sau khi hết thời gian dùng thử này, KH muốn sử dụng tiếp phần mềm eHoadon sẽ tính phí 1.980.000/1 năm bao gồm Phần mềm trọn gói và Hỗ trợ cài đặt, hướng dẫn sử dụng.
 
 <a name="56"></a>
+59.    Bảo hiểm xã hội điện tử là gì ?
+
+­    Là hình thức kê khai các thủ tục BHXH qua môi trường Internet
+
+­    Đơn vị, người khai BHXH kê khai các thủ tục trên phần mềm, ứng dụng và gửi đến Cơ quan BHXH qua mạng
+
+­	Đối tượng khai BHXH (y tế, BHXH, BHTN): Đơn vị, người lao động (HĐLĐ > 3 tháng), người hưởng lương hưu, người tham gia BHTN…
 
 <a name="57"></a>
+60.    Để đăng ký sử dụng dịch vụ Nopbaohiem.vn, tôi cần làm gì ?
+
+­	Để đăng ký sử dụng dịch vụ Nopbaohiem.vn bạn có thể tham khảo và làm theo các bước trong “Hướng dẫn kê khai, nộp hồ sơ bảo hiểm với Nopbaohiem.vn” tại địa chỉ http://nopbaohiem.vn/bao-hiem-xa-hoi/huong-dan-dang-ky-va-nop-to-khai-bao-hiem-xa-hoi-ha-noi/3
 
 <a name="58"></a>
+61.    Dịch vụ Nopbaohiem.vn có lợi ích gì?
+
+­    Người tham gia bảo hiểm xã hội điện tử có những lợi ích như sau:
+
+­    Tiết kiệm chi phí đi lại
+
+­    Tiết kiệm thời gian khi nộp hồ sơ bảo hiểm 
+
+
+
+
+­    Hỗ trợ tận nơi và 24/7
+
+­    Bảo mật thông tin: Các hồ sơ, dữ liệu được bảo vệ nghiêm ngặt theo quy định của Cơ quan Bảo hiểm
+
+­	Tiện ích nâng cao: Xác nhận nộp hồ sơ từ Cơ quan Bảo hiểm qua tin nhắn điện thoại (SMS), hỗ trợ ký phân cấp theo vai trò của người sử dụng.
 
 <a name="59"></a>
+62.     Chí  phí  để  sử  dụng  dịch  vụ  như  thế  nào,  có  ưu  đãi  gì  dành  cho  doanh  nghiệp  khi  đăng  ký  sử  dụng  dịch vụ Nopbaohiem.vn
+­    Dịch vụ Nopbaohiem.vn được hỗ trợ cài đặt và kê khai tận nơi, miễn phí.
 
 <a name="60"></a>
+63.    KH sử dụng CKS của NCC khác có kê khai được eBaohiem của bkav hay không ?
+
+­    KH có thể SD CKS của NCC khác để kê khai trên hệ thông eBaohiem của Bkav được ạ.
