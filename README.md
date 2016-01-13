@@ -362,14 +362,15 @@ Bkav gọi lại tư vấn rõ hơn các thủ tục GH và CTKM cho KH
 <a name="30"></a>
 ###30.    Dịch vụ nộp tờ khai thuế qua mạng Bkav TVAN khác với dịch vụ iHTKK như thế nào?
 
--     Đường truyền nhanh hơn , chị sử dụng đg truyền Tvan của Bkav sẽ tránh đc tình trạng quá tải vào thời điểm kê khai
+- Đường truyền nhanh hơn , chị sử dụng đg truyền Tvan của Bkav sẽ tránh đc tình trạng quá tải vào thời điểm kê khai
 
--     Khi chị gửi tờ khai lên trang Tvan thì Bkav sẽ gửi Có báo tin nhắn và gửi mail thông báo bên mình đã gửi thành công để Kh yên         tâm hơn
--     Có HTKT 24/7
+- Khi chị gửi tờ khai lên trang Tvan thì Bkav sẽ gửi Có báo tin nhắn và gửi mail thông báo bên mình đã gửi thành công để Kh yên         tâm hơn
 
--     Sẽ phối hợp với thuế hỗ trợ KH khi gặp vấn đề
+- Có HTKT 24/7
 
--     Còn nhiều lợi ích khác: sắp tới triển khai kê khai bảo hiểm… 
+- Sẽ phối hợp với thuế hỗ trợ KH khi gặp vấn đề
+
+- Còn nhiều lợi ích khác: sắp tới triển khai kê khai bảo hiểm… 
 
 <a name="31"></a>
 ###31.     KH đã có CKS nhưng không muốn nộp qua trang Tổng cục thuế mà muốn nộp qua trang Nộp tờ khai của Bkav thì có mất  phí không? (KH đăng ký dùng TVAN)
