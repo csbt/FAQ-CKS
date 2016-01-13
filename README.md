@@ -391,10 +391,10 @@ Bkav gọi lại tư vấn rõ hơn các thủ tục GH và CTKM cho KH
 <a name="34"></a>
 ###34.   Trong các trường hợp nào thì Bkav sẽ hoàn tiền cho KH? 
 
--     Bkav sẽ hoàn tiền cho KH trong các trường hợp như: KH chuyển nhầm tiền, Bkav thu thừa tiền của KH, KH huỷ dịch vụ với lý do           khách quan, bất khả kháng.
--     NV sẽ tiếp nhận vấn đề và chuyển công văn cho Ban HTKD3 để xử lý
+- Bkav sẽ hoàn tiền cho KH trong các trường hợp như: KH chuyển nhầm tiền, Bkav thu thừa tiền của KH, KH huỷ dịch vụ với lý do           khách quan, bất khả kháng.
+- NV sẽ tiếp nhận vấn đề và chuyển công văn cho Ban HTKD3 để xử lý
 
--     Khi chuyển công văn cho HTKD3 xử lý, cần cung cấp đầy đủ các thông tin sau:
+- Khi chuyển công văn cho HTKD3 xử lý, cần cung cấp đầy đủ các thông tin sau:
 
       + Lý do hoàn tiền
 
