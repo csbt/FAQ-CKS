@@ -563,17 +563,17 @@ Sau khi cài đặt thành công KH thực hiện việc đăng ký tài khoản
 <a name="58"></a>
 ###58.    Dịch vụ Nopbaohiem.vn có lợi ích gì?
 
--    Người tham gia bảo hiểm xã hội điện tử có những lợi ích như sau:
+- Người tham gia bảo hiểm xã hội điện tử có những lợi ích như sau:
 
--    Tiết kiệm chi phí đi lại
+- Tiết kiệm chi phí đi lại
 
--    Tiết kiệm thời gian khi nộp hồ sơ bảo hiểm 
+- Tiết kiệm thời gian khi nộp hồ sơ bảo hiểm 
 
--    Hỗ trợ tận nơi và 24/7
+- Hỗ trợ tận nơi và 24/7
 
--    Bảo mật thông tin: Các hồ sơ, dữ liệu được bảo vệ nghiêm ngặt theo quy định của Cơ quan Bảo hiểm
+- Bảo mật thông tin: Các hồ sơ, dữ liệu được bảo vệ nghiêm ngặt theo quy định của Cơ quan Bảo hiểm
 
--	   Tiện ích nâng cao: Xác nhận nộp hồ sơ từ Cơ quan Bảo hiểm qua tin nhắn điện thoại (SMS), hỗ trợ ký phân cấp theo vai trò của          người sử dụng.
+-	Tiện ích nâng cao: Xác nhận nộp hồ sơ từ Cơ quan Bảo hiểm qua tin nhắn điện thoại (SMS), hỗ trợ ký phân cấp theo vai trò của          người sử dụng.
 
 <a name="59"></a>
 ###59.     Chí  phí  để  sử  dụng  dịch  vụ  như  thế  nào,  có  ưu  đãi  gì  dành  cho  doanh  nghiệp  khi  đăng  ký  sử  dụng  dịch vụ Nopbaohiem.vn
